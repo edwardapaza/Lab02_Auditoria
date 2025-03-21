@@ -1,0 +1,11 @@
+package com.google.android.recaptcha.internal;
+
+import e4.g;
+/* loaded from: classes.dex */
+public final class zzbe {
+    private zzbe() {
+    }
+
+    public /* synthetic */ zzbe(g gVar) {
+    }
+}
